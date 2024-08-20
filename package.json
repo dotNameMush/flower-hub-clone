@@ -2,6 +2,7 @@
   "name": "hub",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://dotnamemush.github.io/flower-hub-clone",
   "type": "module",
   "scripts": {
     "dev": "vite",
