@@ -1,0 +1,109 @@
+{
+  "home": {
+    "header": {
+      "heading": "Smart för elnätet – och din plånbok",
+      "description": "Med Flower Hub är ditt batteri med och stöttar elsystemet samtidigt som det genererar en extra intäkt för dig som batteriägare.",
+      "button": {
+        "text": "Kom igång med Flower Hub"
+      }
+    },
+    "introSection": {
+      "title": "Låt ditt villabatteri tjäna pengar åt dig",
+      "description": "Dryga ut din sparkassa och bidra till att stärka elsystemet. Få samtidigt tillgång till ett smart elhandelsavtal utan månadsavgift eller extra påslag."
+    },
+    "features": [
+      {
+        "imgSrc": "https://www.flower.se/wp-content/uploads/2024/06/icon.svg",
+        "title": "Ett system i balans",
+        "description": "Med Flower Hub kopplas ditt batteri upp så att det är med och balanserar elnätet samtidigt som det tillgängliggör mer förnybar energi i elsystemet."
+      },
+      {
+        "imgSrc": "https://www.flower.se/wp-content/uploads/2024/06/icon-1.svg",
+        "title": "Få ersättning",
+        "description": "Stötta elsystemet med ditt batterisystem och få betalt i samma veva. Som batteriägare får du en fast ersättning per månad som dras direkt på din elhandelsfaktura."
+      },
+      {
+        "imgSrc": "https://www.flower.se/wp-content/uploads/2024/06/icon-2.svg",
+        "title": "Ett flexibelt elavtal",
+        "description": "Vårt elhandelsavtal baseras på timpris utan månadsavgift eller extra påslag. Timpris är en smart avtalsform där du får det pris som el handlas till på den nordiska elbörsen.",
+        "link": {
+          "text": "Läs mer.",
+          "href": "https://www.flower.se/hub/elavtal/"
+        }
+      }
+    ],
+    "hubSection": {
+      "title": "Plug and Play. Utan krångel.",
+      "description": "Flower Hubs kompakta enhet kopplas enkelt upp till din hemmarouter och börjar stötta elnätet på nolltid.",
+      "button": {
+        "text": "Så funkar det",
+        "href": "https://www.flower.se/hub/sa-funkar-flower-hub/"
+      },
+      "imgSrc": "https://images.ohmyhosting.se/7qjVYTrbUv_FdJKN0GWa_eJmiBk=/1152x1400/smart/filters:quality(85)/https%3A%2F%2Fwww.flower.se%2Fwp-content%2Fuploads%2F2024%2F06%2FHighRes_FlowerHub2160x2160-2.png"
+    },
+    "paymentSection": {
+      "backgroundImgSrc": "https://images.ohmyhosting.se/t1qTfwzZRviiwNL5UgQXPW5byfc=/1440x800/smart/filters:quality(85)/https%3A%2F%2Fwww.flower.se%2Fwp-content%2Fuploads%2F2023%2F11%2F68e21221ebe7616904c433b87ccaec0a-scaled.jpeg",
+      "title": "Få betalt varje månad",
+      "description": "Som batteriägare får du en fast ersättning per månad då ditt batteri är med och bidrar med stödtjänster till elnätet. Ersättningen dras direkt på din elhandelsfaktura."
+    },
+    "priceSection": {
+      "title": "Upp till 310 kr/kW/mån",
+      "description": "Varje månad som ditt batteri är med och stöttar elnätet får du betalt. Hur mycket beror på ditt batteris aktiva effekt. Ersättningen uppdateras kvartalsvis och baseras på ett index av marknaderna för stödtjänster det senaste kvartalet. Ersättningen dras direkt från din elhandelsfaktura varje månad. Ett typiskt hemmabatterisystem med aktiv effekt om 10 kW genererar 37 200 kr på ett år.",
+      "details": [
+        {
+          "inverter": "Huawei SUN2000 KTL-M1*",
+          "compensation": "310 kr/kW/mån"
+        },
+        {
+          "inverter": "SAJ H2",
+          "compensation": "310 kr/kW/mån"
+        },
+        {
+          "inverter": "Sungrow SH RT",
+          "compensation": "310 kr/kW/mån"
+        }
+      ],
+      "note": "*Under förutsättning att Huawei's senaste uppdatering till sina växelriktare finns tillgänglig och är installerad på systemet. Annars ligger ersättningen något lägre då systemet inte är tillräckligt snabbt för alla relevanta marknader. Prislista för Q4 läggs upp på denna sida senast 1 september 2024.",
+      "button": {
+        "text": "Läs mer",
+        "href": "https://www.flower.se/hub/elavtal/"
+      }
+    },
+    "faq": {
+      "title": "Frågor och svar",
+      "items": [
+        {
+          "question": "Vilka växelriktare och batterier är kompatibla med Flower Hub?",
+          "answer": "Idag är Flower Hub kompatibelt med växelriktare och batterier från Huawei, SAJ och Sungrow. Stöd för andra fabrikat kommer att läggas till löpande och informationen uppdateras då på den här hemsidan. Du kan se en lista med vilka fabrikat Flower Hub är kompatibelt med och vad ersättningen är för respektive fabrikat här."
+        },
+        {
+          "question": "Är det möjligt att ansluta fler än ett batterilagringssystem till Flower Hub?",
+          "answer": "I dagsläget är det endast möjligt att ansluta ett batterilagringssystem per Flower Hub, men det kommer att vara möjligt att ansluta fler i framtiden. Aktuella kompatibilitets- och driftfall presenteras och uppdateras här."
+        },
+        {
+          "question": "Går det att ansluta ett batteri till Flower Hub utan solceller?",
+          "answer": "Tekniskt sett så är detta inga problem, men du behöver ha en godkänd produktionsanläggning innan du blir en Flower Hub-kund, för att byta till vårt elavtal och för att Flower ska kunna styra ditt batteri."
+        },
+        {
+          "question": "Vad är det för bindningstid på Flower Hub?",
+          "answer": "Flower Hub har ingen bindningstid."
+        }
+      ],
+      "linkText": "Se fler frågor och svar"
+    },
+    "quoteSlides": {
+      "slides": [
+        {
+          "imgSrc": "https://www.flower.se/wp-content/uploads/2024/06/slack-1.png",
+          "quote": "Vi är stolta att vara partners med Flower. Med deras marknadsledande optimeringsmjukvara kan våra kunder maximera användningen av sina batterisystem, vilket ger dem en extra intäkt samtidigt som de stöttar elnätet.",
+          "author": "– Tom Douglas, Affärsområdeschef Distribution & Tjänster, KP Energy"
+        },
+        {
+          "imgSrc": "https://www.flower.se/wp-content/uploads/2024/06/ellevio-logga.jpg",
+          "quote": "Våra installationspartners uppskattar enkelheten med Flower Hub - allt från beställning och leverans till den smidiga plug'n'play installationen. Det sparar tid och gör det lättare än någonsin för husägare att börja bidra med flexibilitet och pålitlighet i elnätet.",
+          "author": "– Tim Ljunggren, Medgrundare och CTO, Senergia"
+        }
+      ]
+    }
+  }
+}
