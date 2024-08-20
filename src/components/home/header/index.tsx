@@ -7,7 +7,7 @@ const Header = () => {
           <aside className="relative">
             <a href="/">
               <img
-                src="/logo.png"
+                src="/flower-hub-clone/logo.png"
                 alt="Logo"
                 className="w-full max-w-[216px]"
               />

@@ -10,12 +10,21 @@ const HomePage = () => {
       <header className="flex h-full flex-col justify-center" data-bg="#FFEBDB">
         <div className="relative flex h-screen min-h-[650px] flex-col justify-center pt-16 md:pt-0 lg:min-h-[900px]">
           <picture className="h-full">
-            <source media="(min-width: 1900px)" srcSet={"/svg/Union.svg"} />
-            <source media="(min-width: 651px)" srcSet={"/svg/Union.svg"} />
-            <source media="(max-width: 650px)" srcSet={"/svg/Union.svg"} />
+            <source
+              media="(min-width: 1900px)"
+              srcSet={"/flower-hub-clone/svg/Union.svg"}
+            />
+            <source
+              media="(min-width: 651px)"
+              srcSet={"/flower-hub-clone/svg/Union.svg"}
+            />
+            <source
+              media="(max-width: 650px)"
+              srcSet={"/flower-hub-clone/svg/Union.svg"}
+            />
             <img
               decoding="async"
-              src={"/svg/Union.svg"}
+              src={"/flower-hub-clone/svg/Union.svg"}
               className="h-full w-full object-cover object-center"
               loading="lazy"
               alt=""
