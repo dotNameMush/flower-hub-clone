@@ -4,7 +4,7 @@ import MainRoutes from "./providers/route";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="https://dotnamemush.github.io/flower-hub-clone/">
       <MainRoutes />
     </BrowserRouter>
   );
