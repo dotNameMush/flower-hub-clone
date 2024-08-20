@@ -1,7 +1,7 @@
 import { contentAtom } from "@/providers/content";
 import { useAtom } from "jotai";
 import React, { useRef, useState } from "react";
-import { useDrag } from "react-use-gesture";
+import { useDrag, Vector2 } from "@use-gesture/react";
 
 const QuoteSlider: React.FC = () => {
   const [content, _] = useAtom(contentAtom);
@@ -10,7 +10,7 @@ const QuoteSlider: React.FC = () => {
 
   const bind = useDrag(
     ({ movement: [_], direction: [xDir], velocity }) => {
-      const swipeThreshold = 0.2;
+      const swipeThreshold: Vector2 = [0.0, 0.2];
       if (velocity > swipeThreshold) {
         if (xDir > 0 && index > 0) {
           setIndex(index - 1);
