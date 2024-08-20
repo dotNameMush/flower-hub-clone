@@ -1,12 +1,12 @@
 import "@styles/custom-scroll.css";
-import { BrowserRouter } from "react-router-dom";
+import { HashRouter } from "react-router-dom";
 import MainRoutes from "./providers/route";
 
 function App() {
   return (
-    <BrowserRouter basename="https://dotnamemush.github.io/flower-hub-clone/">
+    <HashRouter>
       <MainRoutes />
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
